@@ -1,0 +1,3 @@
+include ':ezviewbinding'
+include ':app'
+rootProject.name = "DaggerDemo"
