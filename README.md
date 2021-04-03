@@ -22,7 +22,7 @@ Add this to your module's `build.gradle` file (make sure the version matches the
 ```gradle
 dependencies {
 	...
-	 implementation 'com.github.dangnhat99:EasyViewBinding:-084fca4e16-1'
+	 implementation 'com.github.dangnhat99:EasyViewBinding:ac23f39b39'
 }
 ```
 
